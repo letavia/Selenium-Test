@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="StaticPageTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-06-11T14:27:21" hostname="LenyOktavia-PC" time="12.561">
+  <properties/>
+  <testcase name="testSingleStaticPage" classname="StaticPageTest" time="12.561"/>
+  <system-out><![CDATA[Test passed.
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 2.29.461591 (62ebf098771772160f391d75e589dc567915b233) on port 43706
+Only local connections are allowed.
+]]></system-err>
+</testsuite>

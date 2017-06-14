@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Tryout" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-06-11T14:27:34" hostname="LenyOktavia-PC" time="8.771">
+  <properties/>
+  <testcase name="mainTest" classname="Tryout" time="8.771"/>
+  <system-out><![CDATA[Test passed.
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 2.29.461591 (62ebf098771772160f391d75e589dc567915b233) on port 25557
+Only local connections are allowed.
+]]></system-err>
+</testsuite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Main" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-06-11T14:26:52" hostname="LenyOktavia-PC" time="29.201">
+  <properties/>
+  <testcase name="testLogin" classname="Main" time="29.201"/>
+  <system-out><![CDATA[Settings
+Download Drive
+Keyboard shortcuts
+Help]]></system-out>
+  <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+Starting ChromeDriver 2.30.477700 (0057494ad8732195794a7b32078424f92a5fce41) on port 14579
+Only local connections are allowed.
+]]></system-err>
+</testsuite>

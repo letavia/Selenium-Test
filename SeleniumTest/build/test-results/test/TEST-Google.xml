@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Google" tests="2" skipped="0" failures="0" errors="0" timestamp="2017-06-11T14:25:50" hostname="LenyOktavia-PC" time="60.255">
+  <properties/>
+  <testcase name="testLogin" classname="Google" time="60.254"/>
+  <testcase name="testForm" classname="Google" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 2.29.461591 (62ebf098771772160f391d75e589dc567915b233) on port 3079
+Only local connections are allowed.
+]]></system-err>
+</testsuite>
