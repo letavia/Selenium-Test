@@ -46,8 +46,8 @@ public class Main {
         /** test login **/
         MainPageWithoutLogin mainPageWithoutLogin = new MainPageWithoutLogin(driver);
         LoginPopup loginPopup = mainPageWithoutLogin.openLoginPopup();
-        MainPage mainPage = loginPopup.login("thelenyoktavia@gmail.com", "Sp!d3rn0v4");
-        assertTrue("Login is not successful", mainPage.getUsername().contains("thelenyoktavia@gmail.com"));
+        MainPage mainPage = loginPopup.login("<email>", "<password>");
+        assertTrue("Login is not successful", mainPage.getUsername().contains("<email>"));
 
         /** Test hover **/
         mainPage.hoverMenu();
