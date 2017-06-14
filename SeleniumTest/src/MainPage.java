@@ -120,9 +120,7 @@ public class MainPage extends PageObject {
         String winHandleBefore = driver.getWindowHandle();
         action.click(accountLocator);
         action.click(privacyPolicyLocator);
-        for (String winHandle : driver.getWindowHandles()) {
-            driver.switchTo().window(winHandle);
-        }
+        action.windowHandle();
         String title = privacyPolicy.getAttribute("title");
         driver.close();
         driver.switchTo().window(winHandleBefore); Thread.sleep(1000);
